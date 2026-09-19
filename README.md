@@ -1,6 +1,6 @@
 # AI SaaS Platform with Next.js 13, React, Tailwind, Prisma, Stripe, Clerk, OpenAPI, Replicate, PlanetScale, MySQL, TypeScript & Crisp
 
-Credits: [CodeyFrank](https://github.com/CodeyFrank)
+Credits: [CodeyRBT](https://github.com/CodeyRBT)
 
 Features:
 
